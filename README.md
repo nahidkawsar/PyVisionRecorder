@@ -9,7 +9,7 @@ This Python script allows you to record your screen using the pyautogui and Open
 ## Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your_username/screen-recording-python.git
+git clone (https://github.com/nahidkawsar/PyVisionRecorder/blob/main/PyScreenRecorder.ipynb)
 
 ## Install the required dependencies:
 
